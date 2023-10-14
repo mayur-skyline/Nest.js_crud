@@ -1,6 +1,6 @@
 ## Description
 
-Effective Carnival is great repo to start with nest js.
+Here you can start with NestJS...
 
 ### Setting up
 
